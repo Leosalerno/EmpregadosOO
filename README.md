@@ -30,20 +30,6 @@ Projeto desenvolvido em Java com foco em Programação Orientada a Objetos (POO)
 
 ---
 
-## ▶️ Como executar
-
-```bash
-git clone https://github.com/Leosalerno/EmpregadosOO.git
-```
-
-Executar a classe:
-
-```
-Program.java
-```
-
----
-
 ## 👨‍💻 Autor
 
 Leonardo Salerno
